@@ -1,6 +1,6 @@
 body {
-    background-color: red;
+    background-color: rgb(0, 0, 0);
     color: aliceblue;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 28px;
 }
